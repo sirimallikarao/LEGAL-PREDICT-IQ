@@ -1,2 +1,2 @@
 # Legal-Predict-IQ
-https://legalpredictiq-ai-driven-chatbot.netlify.app/ 
+https://legalpredictiq-aidriven-chatassistant.netlify.app/
